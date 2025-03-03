@@ -36,7 +36,7 @@ The project demonstrates the following algorithms implemented from scratch in C#
    ```bash
    dotnet run
 
-### Project Structure
+## Project Structure
 - **Algorithms:** Source files containing the implementation of each machine learning algorithm.
 - **Tests:** Contains unit tests for verifying the correctness of the implementations.	
 
