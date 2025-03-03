@@ -20,11 +20,6 @@ The project demonstrates the following algorithms implemented from scratch in C#
 
 ## Getting Started
 
-### Prerequisites
-
-- [.NET 5/6](https://dotnet.microsoft.com/download) or a later version
-- A C# development environment (e.g., Visual Studio, Visual Studio Code)
-
 ### Installation
 
 1. **Clone the repository:**
